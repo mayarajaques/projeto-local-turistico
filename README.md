@@ -31,7 +31,7 @@ Esta página traz informações de uma viagem para Busan na Coreia do Sul.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1384542229391733447/local-turistico]). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1384542229391733447/local-turistico). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 ---
