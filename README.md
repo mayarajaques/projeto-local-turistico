@@ -36,4 +36,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.fig
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by May
