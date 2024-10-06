@@ -1,7 +1,7 @@
 <h1 align="center"> Local Turistico </h1>
 
 <p align="center">
-  Projeto desenvolvido com os conhecimentos adquiridos no primeiro módulo do curso da Rockeaset
+  Projeto desenvolvido com os conhecimentos adquiridos no primeiro módulo do curso da Rocketseat
 </p>
 
 <p align="center">
