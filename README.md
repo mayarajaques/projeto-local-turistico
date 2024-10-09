@@ -1,7 +1,8 @@
 <h1 align="center"> Local Turistico </h1>
 
 <p align="center">
-  Primeiro projeto desenvolvido com os conhecimentos adquiridos no primeiro módulo do curso da Rocketseat.
+  Primeiro projeto desenvolvido com os conhecimentos adquiridos no primeiro módulo do curso da Rocketseat.<br>
+  <strong>O objetivo deste projeto é trabalhar os conceitos de HTML e CSS.</strong>
 </p>
 
 <p align="center">
